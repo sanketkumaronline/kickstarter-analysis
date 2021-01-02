@@ -104,7 +104,7 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 
 We can conclude that:
 
-1. **May** is the *best* month to start a theatre fundraising campaign. **June** is the *second best*.
+1. **May** is the *best* month to start a Theatre fundraising campaign. **June** is the *second best*.
 
 2. **December** is *worst* month to start a theatre fundraising campaign. Also, it is not advisable to start the campaign in Nov, Jan, and March either.
 
@@ -113,7 +113,7 @@ We can conclude that:
 
 We can conclude that:
 
-1. Fundraising campaigns for plays with Goal amount **<10000**, and between **35000 to 45000** have *high success rate*. Therefore, it is advisable to set the funding Goal within these ranges.
+1. Fundraising campaigns for plays with Goal amount **<10000**, and in **35000 to 45000** range have *high success rate*. Therefore, it is advisable to set the funding Goal amount within these ranges.
 
 
 ### What are some limitations of this dataset?
