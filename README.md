@@ -102,6 +102,8 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+We can conclude that:
+
 1. **May** is the *best* month to start a theatre fundraising campaign. **June** is the *second best*.
 
 2. **December** is *worst* month to start a theatre fundraising campaign. Also, it is not advisable to start the campaign in Nov, Jan, and March either.
@@ -109,15 +111,22 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 
 ### What can you conclude about the Outcomes based on Goals?
 
+We can conclude that:
+
 1. Fundraising campaigns for plays with Goal amount **<10000**, and between **35000 to 45000** have *high success rate*. Therefore, it is advisable to set the funding Goal within these ranges.
 
 
 ### What are some limitations of this dataset?
 
-*	Some of the campaigns are *old* and date as far back as 2009-10. If we are launching a crowdfunding campaign in 2021, these old records may prove to be *obsolete* dues to changes in technology and society in general. I think data for five years prior to the launch date will be more helpful. 
-*	The data does not provide any *additional information* that could have influenced the outcome of the campaigns. For e.g., the demography the campaign is targeted to, marketing efforts, economy, pandemic or natural disasters etc.  
+Given below are two limitations of the dataset.
+
+*	Some of the campaigns included in the dataset are *old* and date as far back as 2009-10. If we are launching a crowdfunding campaign in 2021, these old records may prove to be *obsolete* dues to changes in technology and society in general. I think data for five years prior to the launch date will be more helpful. 
+*	The data does not provide any *additional information* that could have influenced the outcome of the campaigns. For e.g., the demography the campaign is targeted to, marketing efforts, economic conditions, etc.  
 
 ### What are some other possible tables and/or graphs that we could create?
 
-1. I think we could have created a table and graph for "Outcomes based on Campaign Duration". This would provide some insights on what kind of relationship does time period the campaign is run has on the outcome.
-2. For more details, we can also create a chart for "Outcomes based on Launch Date for subcategory Play".  
+Mentioned below are two possible tables and graphs we could create.
+
+1. We can create a table and graph for "Outcomes based on Campaign Duration".  This could be done by including an additional column *Campaign Duration* in Kickstarter and then using =DATEDIF() function to calculate the duration. 
+2. For more details, we can also create a chart for "Plays Outcomes based on Launch Date" for subcategory Plays under Theatre. We can also do this by inlcuding the Subcategory as additional filter in "Theatre Outcomes based on Launch Date" chart
+3. We can also show the percentages of outcomes in "Theatre Outcomes based on Launch Date" to show the proportion of each outcome and determine easily which months have higer rates of success.  
