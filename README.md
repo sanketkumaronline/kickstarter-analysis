@@ -94,9 +94,9 @@ Given below are the steps I performed in order to do this analysis.
 
 ### Challenges and Difficulties Encountered
 
-I didn’t face any big challenges in doing these analyses as I am already familiar with Excel and use it as a part of my job profile. However, given below are some of the few difficulties that I think some Excel users might encounter. 
-1.	Some users might find it difficult to implement multiple criteria in the COUNTIFS() functions. In “Outcomes Based on Goals analysis” the multiple conditions will include the goal amount range (upper and lower limits), campaign outcome, and subcategory.
-2.	In “Theater Outcomes by Launch Date” pivot table, dragging the Date Created Conversion to Rows area splits it into three parts: Years, Quarter, and Date (Months). Some people may find this confusing
+I didn’t face any big challenges in doing these analyses as I am already familiar with Excel and use it as a part of my job profile. However, given below are few difficulties that I think some Excel users might encounter. 
+1.	Some users might find it difficult to implement multiple criteria in the COUNTIFS() functions. In “Outcomes Based on Goals" analysis the multiple conditions will include the goal amount range (upper and lower limits), campaign outcome, and subcategory which can be challenging for some.
+2.	In “Theater Outcomes by Launch Date” pivot table, dragging the Date Created Conversion to Rows area splits it into three parts: Years, Quarter, and Date (Months). Some people may find this confusing.
 
 ## Results
 
