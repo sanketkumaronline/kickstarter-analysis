@@ -27,7 +27,7 @@ The analysis is presented in visual format (charts) so that these are easy to un
 **General Observations:**
 
 1.	There is a spike in number of Successful Outcomes towards the middle of an year. It reduces towards the end and is also low at the start of an year. 
-2.	**May** has the highest number of the *successful* Theatre campaigns launched (111), followed by **June** (100). The lowest number of successful campaigns are launched in **December** (37). 
+2.	**May** has the highest number of the *successful outcomes* (111) for Theatre campaigns launched, followed by **June** (100). The lowest number of successful outcomes for campaigns launched are in **December** (37). 
 3.	The numbers of *canceled* outcomes are very small for each month. The number of *failed* outcomes is lower than number of successful outcomes for every month.     
 4.	The *difference* between the successful outcomes and failed outcomes is highest in **May**, followed by **June**. The number of successful outcomes are more than the double the number failed outcomes in these months.
 5.	The number of successful outcomes is *almost the same* as failed outcomes in **December**. I.e. the difference is only 2.
@@ -103,7 +103,7 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 
 1. **May** is the *best* month to start a theatre fundraising campaign. **June** is the *second best*.
 
-2. **December** is *worst* month to start a theatre fundraising campaign. Also, it is not advisable to start the campaign in Sept, Nov, Jan, and March.
+2. **December** is *worst* month to start a theatre fundraising campaign. Also, it is not advisable to start the campaign in Nov, Jan, and March either.
 
 
 ### What can you conclude about the Outcomes based on Goals?
