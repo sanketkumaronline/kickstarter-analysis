@@ -4,7 +4,7 @@
 
 ### Background
 
-Louise is an up-and-coming play writer who wanted to start a crowdfunding campaign to fund her play *Fever*. She was hesitant to start her first fundraising campaign as she doesn’t have any prior experience. She asked me to analyze the crowdfunding data in Excel to provide some insights. Since the fundraising goal for Fever is already close to completion, she wants some additional analysis to be done. 
+Louise is an up-and-coming play writer who wanted to start a crowdfunding campaign to fund her play *Fever*. She was hesitant to start her first fundraising campaign as she doesn’t have any prior experience. She asked me to analyze the crowdfunding data in Excel to provide some insights. Since the Fever campaign is close to fundraising goal, she wants some additional analysis to be done. 
 
 ### Purpose
 
@@ -56,6 +56,7 @@ The analysis is presented in visual format (charts) so that these are easy to un
 2.	Percentage of successful outcomes are *highest* for Goal amount **Less than 1000** at 76%, followed by **1000 to 4999** (73%). 
 3.	The success rate generally decreases with increasing Goal amount, but it *spikes* for ranges **3500 to 3999** and **4000 to 44999** with a percentage of successful outcomes at 67% each which is the third highest. 
 4.	The Percentage of Successful campaigns are the *lowest* for Goal amount **Greater than 45000**
+5. Percentage (and total number) of **Canceled** outcomes are zero for all Goal amount ranges.
 
 **Steps Performed**
 
