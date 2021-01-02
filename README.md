@@ -115,7 +115,7 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 ### What are some limitations of this dataset?
 
 *	Some of the campaigns are *old* and date as far back as 2009-10. If we are launching a crowdfunding campaign in 2021, these old records may prove to be *obsolete* dues to changes in technology and society in general. I think data for five years prior to the launch date will be more helpful. 
-*	The data does not provide any *additional information* that could have influenced the outcome of the campaigns. For e.g., the demography the campaign is targeted to, marketing efforts, etc.  
+*	The data does not provide any *additional information* that could have influenced the outcome of the campaigns. For e.g., the demography the campaign is targeted to, marketing efforts, economy, pandemic or natural disasters etc.  
 
 ### What are some other possible tables and/or graphs that we could create?
 
