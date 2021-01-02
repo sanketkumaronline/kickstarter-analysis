@@ -8,7 +8,7 @@ Louise is an up-and-coming play writer who wanted to start a crowdfunding campai
 
 ### Purpose
 
-I am analyzing crowdfunding dataset Kickstarter using Excel to see if there are any relationships and trends between the fields. This will ascertain if there are any specific factors that make a campaign successful. Will use these insights to help Louise plan her own fundraising campaign based on the previous successful campaigns in the same category. 
+I am analyzing crowdfunding dataset Kickstarter using Excel to see if there are any relationships and trends between the fields. This will ascertain if there are any specific factors that make a campaign successful. Will use these insights to help Louise plan her own fundraising campaign based on the previous successful campaigns in the same category in the dataset. 
 
 ## Analysis and Challenges
 
