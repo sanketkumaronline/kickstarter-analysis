@@ -104,7 +104,7 @@ I didn’t face any big challenges in doing these analyses as I am already famil
 
 We can conclude that:
 
-1. **May** is the *best* month to start a Theatre fundraising campaign. **June** is the *second best*.
+1. **May** is the *best* month to start a  fundraising campaign for theatre. **June** is the *second best*.
 
 2. **December** is *worst* month to start a theatre fundraising campaign. Also, it is not advisable to start the campaign in Nov, Jan, and March either.
 
